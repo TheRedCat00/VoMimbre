@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VoMimbre
+- 👋 Hi, I’m @TheRedCat00
 - 👀 I’m interested in Python, Data Architecture, Data Management, Postgresql
 - 🌱 I’m currently learning Python for Data Sciences. Next one will be MSc DataSciences
 - 💞️ I’m looking to collaborate on projects around Data
